@@ -1,0 +1,16 @@
+h1{
+    color: bisque;
+    background-color: crimson;
+    text-align: center;
+    font-size: 5em;
+    margin-top: 0%;
+    border-radius: 30px;
+}
+
+marquee{
+    color:green;
+    background-color:white;
+    text-align: center;
+    font-size: 3em;
+}
+
